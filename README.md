@@ -1,0 +1,2 @@
+# Word_Occurence_Check_JAVA
+Write a Java program that reads a text file and counts the occurrences of each word in the file. The program should then display the word count for each unique word in alphabetical order.
